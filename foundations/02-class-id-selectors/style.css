@@ -1,0 +1,22 @@
+.p-odd-class {
+    background-color: #f499a7;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+#div-number-2-class {
+    color: rgb(0, 8, 255);
+    font-size: 36px;
+  }
+
+.p-number3-class {
+    font-size: 36px;
+}
+
+#div-number-4-class {
+    font-weight: 700;
+    background-color: rgb(6, 161, 21);
+    font-size: 36px;
+  }
+
+* {
+    color: black;
+}
